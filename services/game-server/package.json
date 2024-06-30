@@ -23,7 +23,7 @@
         "portfinder": "^1.0.28",
         "sharp": "^0.30.4",
         "ts-httpexceptions": "^4.1.0",
-        "ts-node": "^10.9.1",
+        "ts-node": "^10.9.2",
         "ts-node-dev": "^1.0.0-pre.56",
         "uuid": "^8.3.2",
         "ws": "^7.3.1"
