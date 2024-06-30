@@ -21,7 +21,7 @@
         "node-powershell": "^4.0.0",
         "nodemon": "^2.0.4",
         "portfinder": "^1.0.28",
-        "sharp": "^0.30.4",
+        "sharp": "^0.33.4",
         "ts-httpexceptions": "^4.1.0",
         "ts-node": "^10.9.1",
         "ts-node-dev": "^1.0.0-pre.56",
