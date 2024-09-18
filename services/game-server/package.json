@@ -17,7 +17,7 @@
         "@types/ws": "^7.2.6",
         "axios": "^0.21.1",
         "cross-env": "^7.0.2",
-        "express": "^4.17.1",
+        "express": "^4.20.0",
         "node-powershell": "^4.0.0",
         "nodemon": "^2.0.4",
         "portfinder": "^1.0.28",
