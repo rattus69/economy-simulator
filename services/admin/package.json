@@ -33,7 +33,7 @@
     "dependencies": {
         "@types/bootstrap": "^5.0.5",
         "@types/lodash": "^4.14.181",
-        "axios": "^0.21.4",
+        "axios": "^1.7.8",
         "bootstrap": "^5.0.0-beta1",
         "chart.js": "^2.9.4",
         "dayjs": "^1.10.4",
