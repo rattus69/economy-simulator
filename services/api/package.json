@@ -36,7 +36,7 @@
         "@types/ws": "^7.4.0",
         "argon2": "^0.28.2",
         "asciichart": "^1.5.25",
-        "axios": "^0.21.4",
+        "axios": "^1.7.8",
         "chalk": "^4.1.0",
         "cheerio": "^1.0.0-rc.10",
         "compression": "^1.7.4",
